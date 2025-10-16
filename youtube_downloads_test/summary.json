@@ -1,0 +1,16 @@
+{
+  "timestamp": "2025-10-15T19:18:31.464446",
+  "total_videos": 109,
+  "total_channels": 87,
+  "videos_with_transcripts": 106,
+  "downloaded_videos": true,
+  "video_quality": "best",
+  "total_video_size_mb": 14617.27,
+  "statistics": {
+    "videos_with_subtitles": 38,
+    "videos_with_auto_captions": 106,
+    "total_views": 474143533,
+    "total_likes": 8753154,
+    "total_duration_seconds": 50186
+  }
+}
